@@ -1,5 +1,6 @@
 [2014-08-21 13:43:56]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......24
 [2014-08-21 13:43:56]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......21
+[2014-08-21 13:43:56]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......23
 [2014-08-21 13:43:57]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......2
 [2014-08-21 13:43:58]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......2
 [2014-08-21 13:43:59]INFO  com.sundoctor.quartz.cluster.example.SimpleService(line:22) -testMethod2.......2
